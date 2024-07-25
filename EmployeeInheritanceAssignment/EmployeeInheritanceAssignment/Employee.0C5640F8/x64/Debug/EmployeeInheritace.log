@@ -1,0 +1,5 @@
+﻿  Date.cpp
+C:\Users\leona\Desktop\EmployeeInheritanceAssignment\EmployeeInheritanceAssignment\Date.cpp(52,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\leona\Desktop\EmployeeInheritanceAssignment\EmployeeInheritanceAssignment\Date.cpp(94,16): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\leona\Desktop\EmployeeInheritanceAssignment\EmployeeInheritanceAssignment\Date.cpp(94,62): warning C4018: '<': incompatibilidade de signed/unsigned
+  EmployeeInheritace.vcxproj -> C:\Users\leona\Desktop\EmployeeInheritanceAssignment\EmployeeInheritanceAssignment\x64\Debug\EmployeeInheritace.exe
