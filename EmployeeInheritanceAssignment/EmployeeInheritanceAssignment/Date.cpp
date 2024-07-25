@@ -98,7 +98,7 @@ int Date::yearsEmployed() const
 	return years;
 	
 }
-
+// try add virtual here
 std::string Date::to_string() const
 {
 	std::ostringstream oss;
